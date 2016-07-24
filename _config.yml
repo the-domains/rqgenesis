@@ -6,9 +6,14 @@ color:
   saturation: 0.6346986165735871
   rhythmicContrast: 0.520179747371003
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: rqgenesis
+navigation:
+  - id: e7eff245-5cae-4ea8-bfa2-a0108d5647d6
+    url: 2016-04-15-mighty-audios-portable-player.html
+    name: Mighty Audio's Portable Player
+    type: content
