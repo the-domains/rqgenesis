@@ -1,0 +1,14 @@
+layout_spectrum: 0.7786536761559546
+typography_spectrum: 0.14866019692271948
+color:
+  brandStrength: 0.39397686533629894
+  lightness: 0.2600549217313528
+  saturation: 0.6346986165735871
+  rhythmicContrast: 0.520179747371003
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: rqgenesis
