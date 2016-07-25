@@ -21,6 +21,10 @@ navigation:
     url: 2016-07-25-how.html
     name: HOW
     type: content
+  - id: a27c2c26-d753-471f-96a2-89e204c84554
+    url: 2016-07-25-what.html
+    name: WHAT
+    type: content
 typography_spectrum: 0.9702128
 color:
   brandStrength: 0.4212766
