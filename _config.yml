@@ -17,10 +17,6 @@ author:
   email: jaroslav@rqgenesis.com
 name: RQ Genesis
 navigation:
-  - name: HOW
-    id: 43af9c49-6c00-466c-9000-6d50b18955ff
-    type: content
-    url: 2016-07-25-how.html
   - name: WHAT
     id: a27c2c26-d753-471f-96a2-89e204c84554
     type: content
