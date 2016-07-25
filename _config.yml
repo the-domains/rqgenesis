@@ -33,12 +33,12 @@ navigation:
 typography_spectrum: 0.4553191
 color:
   brandStrength: 0.4212766
-  saturation: 0.6346986165735871
+  lightness: 0.7787234
+  saturation: 0.5319149
+  rhythmicContrast: 0.5201797
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  lightness: 0.2600549217313528
-  rhythmicContrast: 0.520179747371003
