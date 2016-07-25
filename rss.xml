@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[rqgenesis]]></title>
-        <description><![CDATA[rqgenesis]]></description>
+        <title><![CDATA[Creating Sustainable Value]]></title>
+        <description><![CDATA[Creating Sustainable Value]]></description>
         <link>https://thegrid.ai/rqgenesis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 08:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 08:34:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rqgenesis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c60d244c-0e8e-4609-8a7d-8633261c6ba1.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c60d244c-0e8e-4609-8a7d-8633261c6ba1.jpg</link>
-            <guid isPermaLink="false">a27c2c26-d753-471f-96a2-89e204c84554</guid>
-            <pubDate>Mon, 25 Jul 2016 08:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the Moonshot Factory ]]></title>
-            <description><![CDATA[<article><h1>Inside the Moonshot Factory </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8b60950-2d56-4a5f-92e1-61529bebe80b.jpg"></article>]]></description>
+            <title><![CDATA[A Peek Inside the Moonshot Factory Operating Manual]]></title>
+            <description><![CDATA[<article><h1>A Peek Inside the Moonshot Factory Operating Manual</h1><p>Ever since we started as Google[x] in 2010, X has had a single mission: to invent and launch "moonshot" technologies that we hope could someday make the world a radically better place.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3be725685bf6d51e0c2958f4fc6c0c76da78c73.png"></article>]]></description>
             <link>https://medium.com/@astroteller/a-peek-inside-the-moonshot-factory-operating-manual-f5c33c9ab4d7?source=userActivityShare-cc1b76617102-1469432948</link>
             <guid isPermaLink="false">b87869eb-2ac5-45bb-97d0-9a07a777d097</guid>
-            <pubDate>Mon, 25 Jul 2016 07:54:08 GMT</pubDate>
+            <pubDate>Mon, 25 Jul 2016 08:34:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
