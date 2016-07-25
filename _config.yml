@@ -12,7 +12,11 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-navigation: []
+navigation:
+  - id: f2eb41af-4771-4c5b-92f1-502c21691885
+    url: 2016-07-25-why.html
+    name: WHY
+    type: content
 typography_spectrum: 0.9702128
 color:
   brandStrength: 0.4212766
