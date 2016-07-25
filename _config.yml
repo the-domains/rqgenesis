@@ -16,11 +16,7 @@ author:
   name: Jaroslav Dokoupil
   email: jaroslav@rqgenesis.com
 name: RQ Genesis
-navigation:
-  - name: WHAT
-    id: a27c2c26-d753-471f-96a2-89e204c84554
-    type: content
-    url: 2016-07-25-what.html
+navigation: []
 collections:
   - index:
       navigable: true
