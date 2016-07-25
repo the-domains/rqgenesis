@@ -17,6 +17,10 @@ navigation:
     url: 2016-07-25-why.html
     name: WHY
     type: content
+  - id: 43af9c49-6c00-466c-9000-6d50b18955ff
+    url: 2016-07-25-how.html
+    name: HOW
+    type: content
 typography_spectrum: 0.9702128
 color:
   brandStrength: 0.4212766
