@@ -1,4 +1,4 @@
-layout_spectrum: 0.2319149
+layout_spectrum: 0
 name: RQ Genesis
 author:
   url: www.rqgenesis.com
@@ -33,9 +33,9 @@ navigation:
 typography_spectrum: 0.4553191
 color:
   brandStrength: 0.4212766
-  lightness: 0.7787234
-  saturation: 0.5319149
-  rhythmicContrast: 0.5201797
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
