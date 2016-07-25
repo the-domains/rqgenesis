@@ -12,11 +12,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-navigation:
-  - name: Mighty Audio's Portable Player
-    id: e7eff245-5cae-4ea8-bfa2-a0108d5647d6
-    type: content
-    url: 2016-04-15-mighty-audios-portable-player.html
+navigation: []
 typography_spectrum: 0.9702128
 color:
   brandStrength: 0.4212766
