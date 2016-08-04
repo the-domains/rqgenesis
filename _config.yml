@@ -17,17 +17,14 @@ author:
   email: ''
 name: RQ Genesis
 navigation:
-  - id: f2eb41af-4771-4c5b-92f1-502c21691885
-    url: 2016-07-25-why.html
-    name: WHY
+  - name: WHY
+    id: f2eb41af-4771-4c5b-92f1-502c21691885
     type: content
-  - id: 43af9c49-6c00-466c-9000-6d50b18955ff
-    url: 2016-07-25-how.html
-    name: HOW
+  - name: HOW
+    id: 43af9c49-6c00-466c-9000-6d50b18955ff
     type: content
-  - id: a27c2c26-d753-471f-96a2-89e204c84554
-    url: 2016-07-25-what.html
-    name: WHAT
+  - name: WHAT
+    id: a27c2c26-d753-471f-96a2-89e204c84554
     type: content
 collections:
   - index:
@@ -41,4 +38,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Creating Sustainable Value
+title: RQ GENESIS
