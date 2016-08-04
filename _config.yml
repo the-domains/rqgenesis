@@ -1,21 +1,22 @@
+layout_spectrum: 0
+description: RQ GENESIS Online
+name: RQ GENESIS
+author:
+  url: ''
+  name: ''
+  email: ''
 typography_spectrum: 0.4553191
 color:
   brandStrength: 0.4212766
-  lightness: 1
   saturation: 1
-  rhythmicContrast: 1
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0
-author:
-  url: ''
-  name: ''
-  email: ''
-name: RQ GENESIS
+  lightness: 1
+  rhythmicContrast: 1
 navigation: []
 collections:
   - index:
@@ -30,4 +31,3 @@ collections:
     permalink:
       path: '/:title/'
 title: RQ GENESIS
-description: RQ GENESIS Online
