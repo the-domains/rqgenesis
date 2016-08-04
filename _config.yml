@@ -15,7 +15,7 @@ author:
   url: ''
   name: ''
   email: ''
-name: RQ Genesis
+name: RQ GENESIS
 navigation: []
 collections:
   - index:
@@ -29,5 +29,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: RQ GENESIS
+title: Creating Sustainable Value
 description: Creating Sustainable Value
