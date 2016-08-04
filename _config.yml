@@ -16,16 +16,7 @@ author:
   name: ''
   email: ''
 name: RQ Genesis
-navigation:
-  - name: WHY
-    id: f2eb41af-4771-4c5b-92f1-502c21691885
-    type: content
-  - name: HOW
-    id: 43af9c49-6c00-466c-9000-6d50b18955ff
-    type: content
-  - name: WHAT
-    id: a27c2c26-d753-471f-96a2-89e204c84554
-    type: content
+navigation: []
 collections:
   - index:
       navigable: true
