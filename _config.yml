@@ -15,7 +15,7 @@ author:
   url: ''
   name: ''
   email: ''
-name: RQ GENESIS
+name: RQ GENESIS ONLINE
 navigation: []
 collections:
   - index:
@@ -29,5 +29,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: RQ GENESIS online
+title: RQ GENESIS.online
 description: RQ GENESIS Online
