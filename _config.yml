@@ -11,11 +11,13 @@ color:
   lightness: 1
   rhythmicContrast: 1
 layout_spectrum: 0
+analytics:
+  google: UA-44733812-3
 author:
   url: ''
   name: ''
   email: ''
-name: RQ GENESIS ONLINE
+name: RQ GENESIS online
 collections:
   - index:
       navigable: true
