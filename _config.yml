@@ -16,7 +16,6 @@ author:
   name: ''
   email: ''
 name: RQ GENESIS ONLINE
-navigation: []
 collections:
   - index:
       navigable: true
