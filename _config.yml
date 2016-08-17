@@ -17,9 +17,9 @@ author:
   url: ''
   name: ''
   email: ''
-name: RQ GENESIS online news
+name: RQ GENESIS online
 navigation:
-  - name: rqgenesis.com
+  - name: About
     url: 'http://rqgenesis.com'
     type: external
 collections:
