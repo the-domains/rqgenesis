@@ -4,7 +4,7 @@ navigation:
   - url: 'http://rqgenesis.com'
     name: RQ GENESIS
     type: external
-layout_spectrum: 0.4787234
+layout_spectrum: 0
 author:
   url: ''
   name: ''
