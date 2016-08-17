@@ -1,29 +1,17 @@
-typography_spectrum: 0.743291633669287
-color:
-  brandStrength: 0.4212766
-  saturation: 1
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  lightness: 1
-  rhythmicContrast: 1
-layout_spectrum: 0.22961109946481884
-analytics:
-  google: UA-44733812-3
+description: 'Innovation, Technology, Leadership, Culture, Strategy'
+title: RQ online
+navigation:
+  - url: 'http://rqgenesis.com'
+    name: RQ GENESIS
+    type: external
+layout_spectrum: 0.7638298
 author:
   url: ''
   name: ''
   email: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6207061d-7257-4761-94e4-8f925d6d7571.png
 name: RQ online
-navigation:
-  - name: RQ GENESIS
-    url: 'http://rqgenesis.com'
-    type: external
+analytics:
+  google: UA-44733812-3
 collections:
   - index:
       navigable: true
@@ -36,5 +24,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: RQ online
-description: 'Innovation, Technology, Leadership, Culture, Strategy'
+color:
+  brandStrength: 0.4212766
+  saturation: 1
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  lightness: 1
+  rhythmicContrast: 1
+typography_spectrum: 0.4957447
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6207061d-7257-4761-94e4-8f925d6d7571.png
