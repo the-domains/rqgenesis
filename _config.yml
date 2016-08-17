@@ -1,4 +1,4 @@
-typography_spectrum: 0.4553191
+typography_spectrum: 0.743291633669287
 color:
   brandStrength: 0.4212766
   saturation: 1
@@ -10,7 +10,7 @@ color:
     - '#253237'
   lightness: 1
   rhythmicContrast: 1
-layout_spectrum: 0
+layout_spectrum: 0.22961109946481884
 analytics:
   google: UA-44733812-3
 author:
