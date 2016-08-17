@@ -18,6 +18,10 @@ author:
   name: ''
   email: ''
 name: RQ GENESIS online
+navigation:
+  - name: RQ Genesis Ltd
+    url: 'http://rqgenesis.com'
+    type: external
 collections:
   - index:
       navigable: true
