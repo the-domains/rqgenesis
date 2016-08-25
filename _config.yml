@@ -1,17 +1,29 @@
-description: 'Innovation, Technology, Leadership, Culture, Strategy'
-title: RQ online
-navigation:
-  - url: 'http://rqgenesis.com'
-    name: RQ GENESIS
-    type: external
+typography_spectrum: 0.550209840061143
+color:
+  brandStrength: 0.4553191
+  saturation: 1
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#F3AB44'
+    - '#848484'
+    - '#D1D0D1'
+  lightness: 1
+  rhythmicContrast: 0.5382979
 layout_spectrum: 0.5319149
+analytics:
+  google: UA-44733812-3
 author:
   url: ''
   name: ''
   email: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6207061d-7257-4761-94e4-8f925d6d7571.png
 name: RQ online
-analytics:
-  google: UA-44733812-3
+navigation:
+  - name: About RQ GENESIS
+    url: 'http://rqgenesis.com'
+    type: external
 collections:
   - index:
       navigable: true
@@ -24,17 +36,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.4553191
-  saturation: 1
-  brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#F3AB44'
-    - '#848484'
-    - '#D1D0D1'
-  lightness: 1
-  rhythmicContrast: 0.5382979
-typography_spectrum: 0.550209840061143
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6207061d-7257-4761-94e4-8f925d6d7571.png
+title: RQ online
+description: 'Innovation, Technology, Leadership, Culture, Strategy'
