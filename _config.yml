@@ -19,7 +19,7 @@ author:
   email: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6207061d-7257-4761-94e4-8f925d6d7571.png
-name: RQ online
+name: RQ Online
 navigation:
   - name: About RQ GENESIS
     url: 'http://rqgenesis.com'
@@ -36,5 +36,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: RQ online
 description: 'Innovation, Technology, Leadership, Culture, Strategy'
